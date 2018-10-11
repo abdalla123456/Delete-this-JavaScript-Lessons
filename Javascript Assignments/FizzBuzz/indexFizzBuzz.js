@@ -1,7 +1,5 @@
-let = (for(c = 'A'; c <= 'Z'; ++c));
-
-
-const testNumber = ONE ;
+let = testNumber = c = 'A'; c <= 'Z'; ++c 
+const testNumber = 'one' ;
 console.log(fizzBuzz(testNumber)); //Calling Function
 
 function fizzBuzz (input) { //These match order of logic
