@@ -1,6 +1,7 @@
-let = testNumber = c = 'A'; c <= 'Z'; ++c 
-const testNumber = 'one' ;
-console.log(fizzBuzz(testNumber)); //Calling Function
+let one = 'value'
+let a = 'value'
+const testValue = 90 ;
+console.log(fizzBuzz(testValue)); //Calling Function
 
 function fizzBuzz (input) { //These match order of logic
   if ((input % 3 === 0 ) && (input % 5 === 0)) return 'FizzBuzz';
