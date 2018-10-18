@@ -1,3 +1,10 @@
+if(isNaN (value) ) {
+  stop = true;
+  return "Type a real Number"
+} else {
+  return "Input Validate"
+}
+
 let one = 'value'
 let a = 'value'
 const testValue = 90 ;
